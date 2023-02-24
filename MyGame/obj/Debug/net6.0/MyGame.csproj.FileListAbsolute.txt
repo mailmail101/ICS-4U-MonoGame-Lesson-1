@@ -23,3 +23,11 @@
 /home/liam/Desktop/ICS-4U-MonoGame/MyGame/obj/Debug/net6.0/ref/MyGame.dll
 /home/liam/Desktop/ICS-4U-MonoGame/MyGame/obj/Debug/net6.0/MyGame.pdb
 /home/liam/Desktop/ICS-4U-MonoGame/MyGame/obj/Debug/net6.0/MyGame.genruntimeconfig.cache
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/StarScapeBackGround1.xnb
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/StarScapeBackGround2.xnb
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/StarScapeBackGround3.xnb
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/StarScapeBackGround4.xnb
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/StarScapeBackGround5.xnb
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/SpaceShip.xnb
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/Asteroid.xnb
+/home/liam/Desktop/ICS-4U-MonoGame/MyGame/bin/Debug/net6.0/Content/Earth.xnb

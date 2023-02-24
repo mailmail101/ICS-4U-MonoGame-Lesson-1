@@ -1,1 +1,9 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/Asteroid.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/Asteroid.xnb","TextureProcessor","Texture2DContent",18140,11125,0.2680647
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/Earth.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/Earth.xnb","TextureProcessor","Texture2DContent",395808,1000085,0.3268354
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/SpaceShip.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/SpaceShip.xnb","TextureProcessor","Texture2DContent",15933,69781,0.2562541
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/StarScapeBackGround1.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/StarScapeBackGround1.xnb","TextureProcessor","Texture2DContent",2262628,3686485,0.4902859
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/StarScapeBackGround2.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/StarScapeBackGround2.xnb","TextureProcessor","Texture2DContent",2479052,3686485,0.2285699
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/StarScapeBackGround3.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/StarScapeBackGround3.xnb","TextureProcessor","Texture2DContent",2505024,3686485,0.2177567
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/StarScapeBackGround4.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/StarScapeBackGround4.xnb","TextureProcessor","Texture2DContent",1763326,3686485,0.2144532
+"/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/StarScapeBackGround5.png","/home/liam/Desktop/ICS-4U-MonoGame/MyGame/Content/bin/DesktopGL/Content/StarScapeBackGround5.xnb","TextureProcessor","Texture2DContent",723563,3686485,0.1790884
